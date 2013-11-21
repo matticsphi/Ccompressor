@@ -1,0 +1,1 @@
+hencode and hdecode in c.  basically compresses a file in one directory and decodes it in another.  uses a hash table and tree for compression.
